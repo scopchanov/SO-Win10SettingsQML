@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ButtonCategory.qml</file>
+    </qresource>
+    <qresource prefix="/pix">
+        <file>images/icons/64/recovery.png</file>
+        <file>images/icons/64/storage.png</file>
+        <file>images/icons/64/user.png</file>
+    </qresource>
+</RCC>
